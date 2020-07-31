@@ -1,4 +1,4 @@
-#Search Algorithm Visualizer
+# Search Algorithm Visualizer
 
 A visualizer to visualize the concept of Breadth First Search, Depth First Search, and A* Path finding algorithm.
 
